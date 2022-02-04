@@ -7,9 +7,9 @@ Creador: Mauricio Cassab
 # Proyecto Final
 
 ## Instrucciones de la Entrega
--En el Repo se encuntre el video de la aplicacion funcionando en Chrome en base al codigo WebGL
--En este REad me esta toda la docuemntacion y la imagen del Trabajo Funcionando 
--De igual manera se sube el proyecto de UNITY al Repo
+- En el Repo se encuntre el video de la aplicacion funcionando en Chrome en base al codigo WebGL
+- En este Read me esta toda la docuemntacion y la imagen del Trabajo Funcionando 
+- De igual manera se sube el proyecto de UNITY al Repo
 - Para poder Correr el Proyecto se tiene que usar un Navegador con permisos de Host local
 
 ## Librerias 
