@@ -43,11 +43,22 @@ Creador: Mauricio Cassab
 
  - Archivos de Textura
 
- - presentación del Proyecto, describir la escena y Referencias (Read Me)
+ - Presentación del Proyecto, describir la escena y Referencias (Read Me)
+
+## Referecnias
+
+- El Unico Objeto que se importo al proyecto fue la nave que fue importada de Unity Asset Store link (https://assetstore.unity.com/packages/3d/vehicles/space/uav-trident-46128)
+- Todos los demas objetos fueron creados usando Pro Builder en UNITY.
+- Las texturas fueron obtenidas de dominio publico, niguna fue creada por mi.
 
 ## Descripciones de la Escena
 
 Se va a hacer una escena de las pirámides o otras estructuras del Antiguo Egipto. Se va a intentar que estas sean una representación del proceso de construcción de estos. Si no se logra únicamente se van a hacer las pirámides con sus texturas. Las sombras se van a generar de la fuente de luz simulando el sol. Para los objetos se va a intentar hacer que los bloques se muevan hacia arriba de la pirámide. De no ser posible se van a mover en la escena para simular el proceso de construcción.
+
+La imagen a continuacion es una del proyeto final terminado 
+
+![image](https://user-images.githubusercontent.com/72634878/152489459-23ae330d-90f8-490a-ba49-ddded309df3a.png)
+
 
 La imagen a continuación es una escena de referencia que es similar a lo que se quiere hacer. (Se espera que la escena del proyecto sea más simple y con menos detalle).
 
